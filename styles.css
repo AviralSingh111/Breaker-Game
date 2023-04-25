@@ -1,0 +1,52 @@
+*{
+  background: #6C9BCF;
+}
+.head{
+  font-family: sans-serif;
+  align-items: center;
+}
+.huh
+{
+  font-size: 40px;
+  font-family: sans-serif;
+}
+#score
+{
+  margin-left: 20px;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 20;
+}
+.grid
+{
+  background-color: #EBD8B2;
+  position: absolute;
+  width: 560px;
+  height: 300px;
+  border: solid black 6px;
+  border-radius: 10px;
+margin-top: 100px;
+}
+.block
+{
+  position: absolute;
+  width: 100px;
+  height: 20px;
+  background-color: blue;
+}
+
+.user
+{
+  position: absolute;
+  width: 100px;
+  height: 20px;
+  background-color: red;
+}
+.ball
+{
+  position: absolute;
+  width:20px;
+  height:20px;
+  border-radius: 10px;
+  background-color: green;
+}
